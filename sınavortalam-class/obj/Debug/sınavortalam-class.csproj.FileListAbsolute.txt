@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\sınavortalam-class\sınavortalam-class\bin\Debug\sınavortalam-class.exe.config
+C:\Users\User\source\repos\sınavortalam-class\sınavortalam-class\bin\Debug\sınavortalam-class.exe
+C:\Users\User\source\repos\sınavortalam-class\sınavortalam-class\bin\Debug\sınavortalam-class.pdb
+C:\Users\User\source\repos\sınavortalam-class\sınavortalam-class\obj\Debug\sınavortalam-class.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sınavortalam-class\sınavortalam-class\obj\Debug\sınavortalam-class.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\sınavortalam-class\sınavortalam-class\obj\Debug\sınavortalam_class.Form1.resources
+C:\Users\User\source\repos\sınavortalam-class\sınavortalam-class\obj\Debug\sınavortalam_class.Properties.Resources.resources
+C:\Users\User\source\repos\sınavortalam-class\sınavortalam-class\obj\Debug\sınavortalam-class.csproj.GenerateResource.cache
+C:\Users\User\source\repos\sınavortalam-class\sınavortalam-class\obj\Debug\sınavortalam-class.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sınavortalam-class\sınavortalam-class\obj\Debug\sınavortalam-class.exe
+C:\Users\User\source\repos\sınavortalam-class\sınavortalam-class\obj\Debug\sınavortalam-class.pdb
